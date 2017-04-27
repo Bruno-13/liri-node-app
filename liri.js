@@ -72,7 +72,7 @@ function getSpotify(){
   //variable for search term, test if defined.
   var searchTrack;
   if(secondCommand === undefined){
-    searchTrack = 'The Sign by Ace of Base';
+    searchTrack = 'Ace of Base The Sign';
   }else{
     searchTrack = secondCommand;
   }
